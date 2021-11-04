@@ -11,7 +11,7 @@ const prounounsHereEl = document.getElementById('pronouns-here');
 
 
 
-const colors = ['pink', 'red', 'orange', 'yellow', 'blue', 'green'];
+const colors = ['#FFB3D9', 'red', '#008055', '#FFE666', '#B3E5FF', '#FFB319','#B0BF1A', '#3355FF'];
 
 
 changeButtonEl.addEventListener('click', () => {
