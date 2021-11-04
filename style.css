@@ -64,3 +64,25 @@ h3 {
     margin: 0;
     padding-top: 1em;
 }
+
+.new-name {
+    padding-bottom: 30px;
+}
+
+.change-button {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.color-button {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 2px;
+}
+
+.color-button-spacing {
+    padding-top: 20px;
+}
