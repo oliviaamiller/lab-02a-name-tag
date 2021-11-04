@@ -65,6 +65,12 @@ h3 {
     padding-top: 1em;
 }
 
+.pronouns {
+    font-size: 20px;
+    font-family: cursive;
+    margin: 0;
+}
+
 .new-name {
     padding-bottom: 30px;
 }
